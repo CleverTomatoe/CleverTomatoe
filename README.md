@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+- 🤔 I’m looking for help with the marketing aspect of the app.
+
+https://weworkout.ca
+
 <!--
 **CleverTomatoe/CleverTomatoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
