@@ -39,7 +39,7 @@ I'm an indie full-stack developer building the app, tool, or project that I wish
 <!--
 <div align="center">
 
-| [App Store](https://apps.apple.com/ca/app/weworkout/id1663484852) | [Google Play](https://play.google.com/store/apps/details?id=com.clevertomatoe.weworkout&hl=en_CA&gl=US) | [Website](https://weworkout.ca) |
+| [App Store](https://apps.apple.com/ca/app/weworkout/id1663484852) | [Google Play](https://play.google.com/store/apps/details?id=com.anonymous.weworkout) | [Website](https://weworkout.ca) |
 | :---: | :---: | :---: |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" alt="App Store" width="30"> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Google Play" width="30"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Website_logo.png" alt="Website" width="30"> |
 
