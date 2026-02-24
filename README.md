@@ -77,7 +77,7 @@ I'm an indie full-stack developer building the app, tool, or project that I wish
           
 
           
-          
+<br />
 <br />
 
 
